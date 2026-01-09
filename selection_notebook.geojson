@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "selection_notebook",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "batiment.9767115", "cleabs": "BATIMENT0000000000162704", "nature": "Industriel, agricole ou commercial", "usage_1": "Commercial et services", "usage_2": null, "construction_legere": false, "etat_de_l_objet": "En service", "date_creation": "2006-05-22T11:18:11.781Z", "date_modification": "2019-03-15T12:40:14.378Z", "date_d_apparition": "1990-01-01T00:00:00", "date_de_confirmation": null, "sources": null, "identifiants_sources": "", "methode_d_acquisition_planimetrique": "BDTopo", "methode_d_acquisition_altimetrique": "BDTopo", "precision_planimetrique": 2.5, "precision_altimetrique": 1.5, "nombre_de_logements": 0.0, "nombre_d_etages": 3.0, "materiaux_des_murs": "", "materiaux_de_la_toiture": "", "hauteur": 5.2, "altitude_minimale_sol": 32.3, "altitude_minimale_toit": null, "altitude_maximale_toit": null, "altitude_maximale_sol": null, "origine_du_batiment": "Imagerie aérienne", "appariement_fichiers_fonciers": "A 1.0", "identifiants_rnb": "1NXXJ63YN9GG" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 648188.800041479989886, 6862149.10463794041425, 37.5 ], [ 648198.800041469978169, 6862137.404637949541211, 37.5 ], [ 648233.300041439943016, 6862171.704637929797173, 37.5 ], [ 648221.800041449954733, 6862182.304637920111418, 37.5 ], [ 648188.800041479989886, 6862149.10463794041425, 37.5 ] ] ] ] } }
+]
+}
